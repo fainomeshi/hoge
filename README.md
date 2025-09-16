@@ -11,3 +11,4 @@ This Directry is for managing "Git".
 
 
 
+この行は work_conflict ブランチで追加
