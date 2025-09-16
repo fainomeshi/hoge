@@ -7,3 +7,4 @@ This Directry is for managing "Git".
 
 
 
+この行は master ブランチで追加
